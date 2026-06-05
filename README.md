@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
+
 public class HangmanSwing extends JFrame {
 
     private final String[] words = {
